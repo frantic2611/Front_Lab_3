@@ -4,35 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaf7024e-52fb-49c7-86a7-da1c2ee3adda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/101.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/13.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1920x.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Group(1).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Group(2).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Group(3).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Group.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cheburnet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/deathNote.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ded.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dexter.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dexter1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/holop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/killersgame_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lazy.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/legend.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/luntik.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/luv-evil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/poli.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/raven.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sopranos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/two_two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wire.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/HomePage.html" afterDir="false" />
+    <list default="true" id="eaf7024e-52fb-49c7-86a7-da1c2ee3adda" name="Changes" comment="commit 1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/HomePage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +53,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -106,11 +82,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733237040951</updated>
-      <workItem from="1733237042086" duration="17111000" />
+      <workItem from="1733237042086" duration="24093000" />
     </task>
+    <task id="LOCAL-00001" summary="commit 1.0">
+      <option name="closed" value="true" />
+      <created>1733299553748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733299553748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1.0" />
   </component>
 </project>
