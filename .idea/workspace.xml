@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaf7024e-52fb-49c7-86a7-da1c2ee3adda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/101.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1920x.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Group(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Group(2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Group(3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Group.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cheburnet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/deathNote.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ded.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dexter.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dexter1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/holop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/killersgame_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lazy.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/legend.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/luntik.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/luv-evil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/poli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raven.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sopranos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/two_two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/HomePage.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../untitled\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pi7S3pyeP1uomL0dT48iULBLOm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.HomePage.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sagit/WebstormProjects/untitled/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sagit\WebstormProjects\untitled\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sagit\WebstormProjects\untitled\images" />
+      <recent name="C:\Users\sagit\WebstormProjects\untitled\static" />
+      <recent name="C:\Users\sagit\WebstormProjects\untitled\templates" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaf7024e-52fb-49c7-86a7-da1c2ee3adda" name="Changes" comment="" />
+      <created>1733237040951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733237040951</updated>
+      <workItem from="1733237042086" duration="17111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
